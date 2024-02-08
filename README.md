@@ -7,7 +7,7 @@
 
 ![project-screen](project-image.jpg)
 
-## Выполненные задачи:
+## Реализовано:
 - SPA на Vue.js (подход Composition API);
 - Функционал логики и механики игры.
 
